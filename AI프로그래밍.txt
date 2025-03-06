@@ -1,0 +1,47 @@
+3/4
+print()
+output <- 함수(input)
+hello world -> output (아님 작동하는 과정)
+hello + world 덧셈기호로 문자열을 연결할경우 공백이 삽입되지 않음 -> 문자열을 합쳐씀 
+hello , world 쉼표로 구분되어 있을 경우 공백을 삽입하고 다음 문자열을 출력
+2+4 연산의 결과가 출력됨
+print()함수 사용하지 않을 경우에도 연산의 결과가 출력됨
+
+변수는 특정한 값을 저장하는 기능을 한다
+x + y 연산은 x 변수 y변수가 저장해둔 값을 불러와서 이 값 100,200을 연산한다
+메모리에 변수의 값을 저장
+코드가 끝날 때까지 계속 같은 위치에 저장
+
+x=100 y=200
+x=y 
+y=x
+
+3/6
+ls : list
+pwd : present warking dir 해당 디렉토리로 가고 싶을 때 갈 수 있음
+cd : changing dir d - : 이전 작업 dir로 돌아감
+mkdir : make dir
+rm(dir) : remove
+☆vi editor
+cat (텍스트 파일) : 한번에 내용을 띄우고 싶을 때 사용
+more : 한 화면까지만 txt f을 뿌려줌
+tail : 끝 내용을 보여줌
+
+우유 받아서 치즈 만들기
+a = create_file(name)
+   file
+   return 1 or 0 
+
+echo "test" >> test.txt
+
+git command line
+init git에서 초기화
+add readme git에서 관리
+first commit git과 연결점
+branch git 홈페이지와 연결선
+push ~ 관리하려는 파일을 전부 업로드
+
+
+
+
+
